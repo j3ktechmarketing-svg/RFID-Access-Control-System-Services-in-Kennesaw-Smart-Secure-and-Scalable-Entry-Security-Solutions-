@@ -121,44 +121,7 @@ For more details or to get started with professional access control solutions, v
 https://www.j3ktech.com/contact-us/
 
 ---
-
-## Services
-
-Managed IT Services  
-Managed Wireless Network Services  
-Structured Cabling Services  
-Access Control Services  
-Video Surveillance Services  
-
----
-
-## Industries We Serve
-
-Healthcare  
-Financial Services  
-Education  
-Legal  
-Government and Public  
-Retail  
-Manufacturing and Industrial  
-Hospitality  
-Real Estate and Property Management  
-Technology and Software  
-Non-Profit Organizations  
-Transportation and Logistics  
-Construction and Engineering  
-Telecommunications  
-Media Advertising  
-
----
-
-## Locations
-
-Atlanta, Alpharetta, Marietta, Sandy Springs, Roswell, Decatur, Johns Creek, Duluth, Lawrenceville, Smyrna, Woodstock, Kennesaw, East Point, Peachtree Corners, Norcross, Conyers, Tucker, Stone Mountain, Mableton, Lithonia, Doraville, Chamblee, Brookhaven, Vinings, Fairburn, Austell, Perry, Warner Robbins, Macon
-
----
-
-## Service Table
+## Service 
 
 | Services |
 |----------|
