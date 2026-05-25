@@ -158,7 +158,7 @@ Atlanta, Alpharetta, Marietta, Sandy Springs, Roswell, Decatur, Johns Creek, Dul
 
 ---
 
-## Service Coverage Table
+## Service Table
 
 | Services |
 |----------|
